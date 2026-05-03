@@ -10,7 +10,7 @@
 $TRANCHE replicates the senior/subordinated tranche structure of traditional FIDC funds into a bonding curve token. The narrative is baked into the DeFi mechanics: 90% of holders survive, 10% take the first loss for higher upside. 
 
 ## 2. Prediction Market Thesis
-I took 3 positions evaluating on-chain order flow and capital behavior (Screenshot attached in repository):
+I took 3 positions evaluating on-chain order flow and capital behavior ![My 3 Bets](./apostas.png)
 *   **$GREENCAT (Will Rug - YES):** Total absence of initial liquidity provided by the creator. Structural setup designed for rapid liquidity extraction with zero financial incentive to sustain the project.
 *   **$Control Protocol (Graduate to Raydium - YES):** Bonding curve shows organic order flow and healthy distribution among multiple unique wallets. Capital inertia is sufficient to hit the 85 SOL hardcap.
 *   **$EMOTE DROP (Stay Active - NO):** Transaction velocity has completely stagnated. Without constant volume to overcome the bonding curve friction, the asset will bleed to total inactivity.
