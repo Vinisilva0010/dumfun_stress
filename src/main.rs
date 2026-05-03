@@ -15,7 +15,7 @@ use tokio::task;
 
 #[tokio::main]
 async fn main() {
-    let payer = Keypair::from_base58_string("4NCBRf1QZ43Ahx9z9nSnRi9TkN79ba6yHndH8V9hNRauhhSiVRfEvrGHTC8GHiCYWQNTvTTUWSjjVbjg2DUZp5ho");
+    let payer = Keypair::from_base58_string("Key privat");
     let payer_arc = Arc::new(payer);
     
     let rpc_url = "https://api.devnet.solana.com".to_string();
