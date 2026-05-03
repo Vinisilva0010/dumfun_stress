@@ -1,10 +1,10 @@
 # Dum.fun - Colosseum Frontier Hackathon Submission
 
-**Developer:** Vinícius Silva Pontual (Zanvexis)
+**Developer:** Vinícius  Pontual 
 **Wallet:** 7aSDp11gPbCCew7yMSQKuBLr6pcKfgwRPtp2QgAE89f3
 **Token Launched:** $TRANCHE
-**Token URL:** [COLE O LINK DO SEU TOKEN AQUI]
-**X Thread:** [COLE O LINK DO SEU TWEET AQUI]
+**Token URL:** https://dum.fun/token/917G75v47BCaVhJqNyw42uANrSXYciRfJn9YGRJW1DUM
+**X Thread:** https://x.com/vini77pontual/status/2051046717491982630?s=20
 
 ## 1. Concept: $TRANCHE
 $TRANCHE replicates the senior/subordinated tranche structure of traditional FIDC funds into a bonding curve token. The narrative is baked into the DeFi mechanics: 90% of holders survive, 10% take the first loss for higher upside. 
